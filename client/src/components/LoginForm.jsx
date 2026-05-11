@@ -1,4 +1,5 @@
-import {  ArrowLeftIcon, EyeIcon, EyeOffIcon, Loader2, Loader2Icon } from "lucide-react"
+/* eslint-disable no-unused-vars */
+import {  ArrowLeftIcon, EyeIcon, EyeOffIcon, Loader2Icon } from "lucide-react"
 import LoginLeftSide from "./LoginLeftSide"
 import { Link } from "react-router-dom"
 import { useState } from "react"
